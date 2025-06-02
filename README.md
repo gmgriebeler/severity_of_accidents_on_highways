@@ -1,1 +1,3 @@
-# severity_of_accidents_on_highways
+severity_of_accidents_on_highways is a repository dedicated to a project developed using python programming language under the context of University of Porto Master's Degree in Civil Engineering. 
+
+The project consisted on an ETL processing of a dataset consisting of accidents that occurred on a Portuguese highway under management of a Portuguese Company specialized in the operation and maintenance of road infraestructures, from 2017 to 2022. In order to determine the factors that impact the most on the probability of a higher severity of the accidents, an Ordered Probability Model was implemented on the Google Collab environment, using Python programming language and applying Pandas framework.
